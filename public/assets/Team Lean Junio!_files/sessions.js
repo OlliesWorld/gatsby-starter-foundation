@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{"+mRL":function(n,e,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/events/[eventSlug]/sessions",function(){return o("Hx5+")}])},11:function(n,e,o){o("j36g"),n.exports=o("+mRL")},"Hx5+":function(n,e,o){"use strict";o.r(e);var s=o("Zkum"),t=o("XWj9");e.default=Object(t.a)()(s.a)}},[[11,1,2,4,7,5,0,3,6,8,9,10,11,14]]]);
