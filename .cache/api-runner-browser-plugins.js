@@ -9,7 +9,7 @@ module.exports = [{
       options: {"plugins":[],"trackingId":"UA-XXXXXXXXX-X"},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Foundation","short_name":"Foundation","start_url":"/","background_color":"#f7f0eb","theme_color":"#a2466c","display":"standalone","icon":"static/assets/stackrole.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"432bd9a65fb634a6750b469e2b07aa2e"},
+      options: {"plugins":[],"name":"LR Dairy Farm","short_name":"LR Dairy","start_url":"/","background_color":"#f7f0eb","theme_color":"#599532","display":"standalone","icon":"static/assets/logo.svg","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"855d20bfeb6e43acaf2563f42563ebdc"},
     },{
       plugin: require('../node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},

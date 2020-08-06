@@ -8,7 +8,7 @@ Let him go, Biff, you're drunk. On the night I go back in time, you get- Doc. Th
 
 Right. Keys? We're gonna take a little break but we'll be back in a while so, don't nobody go no where. Which one's your pop? Looks like a airplane, without wings.
 
-![Cows](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Cows")
+![Cows](/assets/restingcow.jpg "Cows")
 
 The way I see it, if you're gonna build a time machine into a car why not do it with some style. Besides, the stainless, steel construction made the flux dispersal- look out. After I fell off my toilet, I drew this. Thank you. In about thirty years. What, what is it hot? Of course not, Biff, now I wouldn't want that to happen. Now, uh, I'll finish those reports up tonight, and I'll run em them on over first thing tomorrow, alright?
 

@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: LR Dairy Farm
 tagline: Organic Dairy Farm
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/pasture.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
