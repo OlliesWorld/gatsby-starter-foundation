@@ -1,31 +1,20 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
+title: Cow Food
+slug: /cow-food
 date: 2020-05-23 23:40
-description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+description: How to feed a cow
+featuredImage: /assets/food.jpg
 ---
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
 
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+In that case, I'll tell you strait out. Doc? Am I to understand you're still hanging around with Doctor Emmett Brown, McFly? Tardy slip for you, Miss Parker. And one for you McFly I believe that makes four in a row. Now let me give you a nickle's worth of advice, young man. This so called Doctor Brown is dangerous, he's a real nutcase. You hang around with him you're gonna end up in big trouble. Pretty Mediocre photographic fakery, they cut off your brother's hair. Why that's me, look at me, I'm an old man. Right about here.
 
-## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+The appropriate question is, weren't the hell are they. Einstein has just become the world's first time traveler. I sent him into the future. One minute into the future to be exact. And at exactly 1:21 a.m. we should cat h up with him and the time machine. Unroll their fire. What, right here right now in the cafeteria? What if she said no? I don't know if I could take that kind of rejection. Besides, I think she'd rather go with somebody else. Alright, good-bye Einy. Oh, watch that re-entry, it's a little bumpy. Thank god I found you. Listen, can you meet me at Twin Pines Mall tonight at 1:15? I've made a major breakthrough, I'll need your assistance.
 
-Yes! In your face, Gandhi! Ah, yes! John Quincy Adding Machine. He struck a chord with the voters when he pledged not to go on a killing spree. What are their names? I could if you hadn't turned on the light and shut off my stereo.
-
-1. Robot 1-X, save my friends! And Zoidberg!
-2. Soon enough.
-3. There's no part of that sentence I didn't like!
+Hey Dad, George, hey, you on the bike. Flux capacitor. Give me a hand, Lorenzo. Ow, dammit, man, I sliced my hand. Right. Marty, that was very interesting music.
 
 ### The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
 
-Why am I sticky and naked? Did I miss something fun? We're also Santa Claus! Soothe us with sweet lies. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
+Look, George, I'm telling you George, if you do not ask Lorraine to that dance, I'm gonna regret it for the rest of my life. Its good. The car, Dad, I mean He wrecked it, totaled it. I needed that car tomorrow night, Dad, I mean do you have any idea how important this was, do you have any clue? That ain't no airplane, look. oh yeah, all you gotta do is go over there and ask her.
 
-* That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing.
-* We'll need to have a look inside you with this camera.
-* Fry! Quit doing the right thing, you jerk!
-
-Who said that? SURE you can die! You want to die?! Aww, it's true. I've been hiding it for so long. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-
-Spare me your space age technobabble, Attila the Hun! We'll go deliver this crate like professionals, and then we'll go home. Aww, it's true. I've been hiding it for so long. Moving along… Please, Don-Bot… look into your hard drive, and open your mercy file!
+Huh? Right. I have to tell you about the future. Hey I'm talking to you, McFly, you Irish bug. What, right here right now in the cafeteria? What if she said no? I don't know if I could take that kind of rejection. Besides, I think she'd rather go with somebody else.
